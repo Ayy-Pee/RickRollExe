@@ -1,7 +1,6 @@
-https://raw.githubusercontent.com/Ayy-Pee/RickRollExe/main/ThingsUsed/Rick.ico?token=GHSAT0AAAAAABZWBL45HCVX7BSAOIUCQXO4Y2B3JOA # RickRollExe
+# RickRollExe
 ### Date of Creation: 9 October 2022
-
-Download [this](https://github.com/Ayy-Pee/RickRollExe/raw/main/Rick.exe) on your friends desktop and let them click this, then see them suffer 😈
+[<img src="ThingsUsed/Rick.png" witdh="30" height="50">](https://github.com/Ayy-Pee/RickRollExe/raw/main/Rick.exe)Download [this](https://github.com/Ayy-Pee/RickRollExe/raw/main/Rick.exe) on your friends desktop and let them click this, then see them suffer 😈
 - Made with Python 🐍
 - converted to .exe using [pyinstaller](https://pypi.org/project/pyinstaller/) 💾
 
