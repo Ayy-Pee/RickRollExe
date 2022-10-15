@@ -1,6 +1,6 @@
 # RickRollExe
 ### Date of Creation: 9 October 2022
-[<img src="ThingsUsed/Rick.png" witdh="30" height="50">](https://github.com/Ayy-Pee/RickRollExe/raw/main/Rick.exe)Download [this](https://github.com/Ayy-Pee/RickRollExe/raw/main/Rick.exe) on your friends desktop and let them click this, then see them suffer 😈
+[<img src="ThingsUsed/Rick.png" witdh="30" height="50">](https://github.com/Ayy-Pee/RickRollExe/raw/main/Rick.exe)Download [this](https://github.com/Ayy-Pee/RickRollExe/raw/main/Rick.exe) on your friends desktop and let them click this, then see them suffer 😈 (unless they have a slow pc :p)
 - Made with Python 🐍
 - converted to .exe using [pyinstaller](https://pypi.org/project/pyinstaller/) 💾
 
